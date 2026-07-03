@@ -570,6 +570,101 @@
   "appointments": [],
   "events": [
     {
+      "id": "mr4vqxpg-345d84fb",
+      "createdAt": "2026-07-03T11:58:42.724Z",
+      "type": "page_view",
+      "path": "/szycie-na-zamowienie",
+      "source": "Direct"
+    },
+    {
+      "id": "mr4vqv1m-756f02df",
+      "createdAt": "2026-07-03T11:58:39.274Z",
+      "type": "page_view",
+      "path": "/kategorie/garnitury-i-koszule",
+      "source": "Direct",
+      "category": "garnitury-i-koszule"
+    },
+    {
+      "id": "mr4vqsor-8256759e",
+      "createdAt": "2026-07-03T11:58:36.219Z",
+      "type": "page_view",
+      "path": "/kategorie/sukienki-dla-dziewczynek",
+      "source": "Direct",
+      "category": "sukienki-dla-dziewczynek"
+    },
+    {
+      "id": "mr4vqpl2-367b4d14",
+      "createdAt": "2026-07-03T11:58:32.198Z",
+      "type": "page_view",
+      "path": "/kategorie/ubrania-komunijne",
+      "source": "Direct",
+      "category": "ubrania-komunijne"
+    },
+    {
+      "id": "mr4vqnk3-1da615c4",
+      "createdAt": "2026-07-03T11:58:29.571Z",
+      "type": "page_view",
+      "path": "/kolekcje",
+      "source": "Direct"
+    },
+    {
+      "id": "mr4vi4je-5cb14426",
+      "createdAt": "2026-07-03T11:51:51.674Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Direct"
+    },
+    {
+      "id": "mr4vhpva-54b4c997",
+      "createdAt": "2026-07-03T11:51:32.662Z",
+      "type": "page_view",
+      "path": "/produkty/koszula-elegancka-classic",
+      "source": "Direct",
+      "product": "koszula-elegancka-classic"
+    },
+    {
+      "id": "mr4uof78-42db3140",
+      "createdAt": "2026-07-03T11:28:45.812Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Direct"
+    },
+    {
+      "id": "mr4unojr-f83c9d14",
+      "createdAt": "2026-07-03T11:28:11.273Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Direct"
+    },
+    {
+      "id": "mr4ul53a-c0fd83e0",
+      "createdAt": "2026-07-03T11:26:12.742Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Direct"
+    },
+    {
+      "id": "mr4ul0dy-38115acc",
+      "createdAt": "2026-07-03T11:26:06.646Z",
+      "type": "page_view",
+      "path": "/kolekcje",
+      "source": "Direct"
+    },
+    {
+      "id": "mr4ukycc-a4371002",
+      "createdAt": "2026-07-03T11:26:03.996Z",
+      "type": "page_view",
+      "path": "/polityka-prywatnosci",
+      "source": "Direct"
+    },
+    {
+      "id": "mr4u6ay2-9f018f03",
+      "createdAt": "2026-07-03T11:14:40.490Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Direct"
+    },
+    {
       "id": "mr4t8tf7-296b77b0",
       "createdAt": "2026-07-03T10:48:38.131Z",
       "type": "page_view",
