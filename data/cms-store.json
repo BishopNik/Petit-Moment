@@ -1,0 +1,617 @@
+{
+  "products": [
+    {
+      "slug": "sukienka-komunijna-aurora",
+      "name": "Sukienka komunijna Aurora",
+      "category": "Sukienki",
+      "categorySlug": "ubrania-komunijne",
+      "description": "Lekka suknia z botanicznym haftem i szarfą w kolorze szampana.",
+      "longDescription": "Aurora powstała z myślą o spokojnej, ponadczasowej elegancji. Miękka podszewka i lekka warstwa tiulu pozwalają swobodnie przeżyć cały ważny dzień, a ręcznie wykończony haft sprawia, że każda sukienka ma wyjątkowy charakter.",
+      "image": "/images/sukienka-aurora.png",
+      "price": "od 549 zł",
+      "sizes": [
+        "122",
+        "128",
+        "134",
+        "140",
+        "146",
+        "na wymiar"
+      ],
+      "colors": [
+        "Ivory",
+        "Śmietankowy"
+      ],
+      "material": "satyna, tiul, bawełniana podszewka",
+      "occasion": [
+        "Komunia",
+        "Rodzinne uroczystości"
+      ],
+      "gender": "Dziewczynka",
+      "age": "7–12 lat",
+      "availability": "Na zamówienie",
+      "featured": true,
+      "id": "sukienka-komunijna-aurora",
+      "visible": true,
+      "seoTitle": "Sukienka komunijna Aurora",
+      "seoDescription": "Lekka suknia z botanicznym haftem i szarfą w kolorze szampana.",
+      "alt": "Sukienka komunijna Aurora — elegancka odzież dziecięca",
+      "badges": [
+        "Bestseller"
+      ],
+      "images": [
+        "/images/sukienka-aurora.png"
+      ],
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-07-03T10:41:13.767Z"
+    },
+    {
+      "slug": "sukienka-swiateczna-luna",
+      "name": "Sukienka świąteczna Luna",
+      "category": "Sukienki",
+      "categorySlug": "ubrania-swiateczne",
+      "description": "Miękki aksamit, subtelna kokarda i fason stworzony do świętowania.",
+      "longDescription": "Luna łączy miękkość świątecznego aksamitu z wygodnym, dziecięcym krojem. Możemy dopasować długość rękawa, kolor kokardy i długość sukienki.",
+      "image": "/images/sukienka-aurora.png",
+      "price": "od 389 zł",
+      "sizes": [
+        "110",
+        "116",
+        "122",
+        "128",
+        "134"
+      ],
+      "colors": [
+        "Bordo",
+        "Butelkowa zieleń",
+        "Pudrowy róż"
+      ],
+      "material": "aksamit, wiskoza",
+      "occasion": [
+        "Święta",
+        "Urodziny"
+      ],
+      "gender": "Dziewczynka",
+      "age": "5–10 lat",
+      "availability": "Wkrótce",
+      "featured": true,
+      "id": "sukienka-swiateczna-luna",
+      "visible": true,
+      "seoTitle": "Sukienka świąteczna Luna",
+      "seoDescription": "Miękki aksamit, subtelna kokarda i fason stworzony do świętowania.",
+      "alt": "Sukienka świąteczna Luna — elegancka odzież dziecięca",
+      "badges": [
+        "Bestseller"
+      ],
+      "images": [
+        "/images/sukienka-aurora.png"
+      ],
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-07-03T10:41:13.767Z"
+    },
+    {
+      "slug": "garnitur-chlopiecy-milano",
+      "name": "Garnitur chłopięcy Milano",
+      "category": "Garnitury",
+      "categorySlug": "garnitury-i-koszule",
+      "description": "Trzyczęściowy garnitur o lekkiej konstrukcji i dopracowanej linii.",
+      "longDescription": "Milano to elegancki zestaw, który nie krępuje ruchów. Marynarka, kamizelka i spodnie są dopasowywane podczas przymiarki, a całość można uzupełnić koszulą i muszką.",
+      "image": "/images/garnitur-milano.png",
+      "price": "od 649 zł",
+      "sizes": [
+        "122",
+        "128",
+        "134",
+        "140",
+        "146",
+        "152"
+      ],
+      "colors": [
+        "Granatowy",
+        "Beżowy",
+        "Grafitowy"
+      ],
+      "material": "wełna z wiskozą, podszewka wiskozowa",
+      "occasion": [
+        "Komunia",
+        "Wesele",
+        "Urodziny"
+      ],
+      "gender": "Chłopiec",
+      "age": "7–14 lat",
+      "availability": "Dostępny",
+      "featured": true,
+      "id": "garnitur-chlopiecy-milano",
+      "visible": true,
+      "seoTitle": "Garnitur chłopięcy Milano",
+      "seoDescription": "Trzyczęściowy garnitur o lekkiej konstrukcji i dopracowanej linii.",
+      "alt": "Garnitur chłopięcy Milano — elegancka odzież dziecięca",
+      "badges": [
+        "Bestseller"
+      ],
+      "images": [
+        "/images/garnitur-milano.png"
+      ],
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-07-03T10:41:13.767Z"
+    },
+    {
+      "slug": "koszula-elegancka-classic",
+      "name": "Koszula elegancka Classic",
+      "category": "Koszule",
+      "categorySlug": "garnitury-i-koszule",
+      "description": "Oddychająca koszula z miękkim kołnierzykiem i subtelnym wykończeniem.",
+      "longDescription": "Klasyczna koszula uszyta z miękkiej bawełny. Sprawdzi się pod marynarką i solo, a dzięki dopracowanej konstrukcji pozostaje wygodna przez wiele godzin.",
+      "image": "/images/garnitur-milano.png",
+      "price": "od 169 zł",
+      "sizes": [
+        "116",
+        "122",
+        "128",
+        "134",
+        "140",
+        "146"
+      ],
+      "colors": [
+        "Biały",
+        "Ivory",
+        "Błękitny"
+      ],
+      "material": "100% bawełna",
+      "occasion": [
+        "Komunia",
+        "Szkolne uroczystości"
+      ],
+      "gender": "Chłopiec",
+      "age": "6–13 lat",
+      "availability": "Dostępny",
+      "featured": true,
+      "id": "koszula-elegancka-classic",
+      "visible": true,
+      "seoTitle": "Koszula elegancka Classic",
+      "seoDescription": "Oddychająca koszula z miękkim kołnierzykiem i subtelnym wykończeniem.",
+      "alt": "Koszula elegancka Classic — elegancka odzież dziecięca",
+      "badges": [
+        "Bestseller"
+      ],
+      "images": [
+        "/images/garnitur-milano.png"
+      ],
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-07-03T10:41:13.767Z"
+    },
+    {
+      "slug": "komplet-urodzinowy-princess",
+      "name": "Komplet urodzinowy Princess",
+      "category": "Komplety",
+      "categorySlug": "ubrania-na-urodziny",
+      "description": "Spódniczka i elegancka góra, które można stylizować także osobno.",
+      "longDescription": "Lekki komplet na urodziny i sesję zdjęciową. Kolor, detale i długość spódniczki dopasujemy do motywu przyjęcia i charakteru dziecka.",
+      "image": "/images/sukienka-aurora.png",
+      "price": "Cena na zapytanie",
+      "sizes": [
+        "104–146",
+        "na wymiar"
+      ],
+      "colors": [
+        "Pudrowy róż",
+        "Szampan",
+        "Lawendowy"
+      ],
+      "material": "tiul, satyna, bawełna",
+      "occasion": [
+        "Urodziny",
+        "Sesja zdjęciowa"
+      ],
+      "gender": "Dziewczynka",
+      "age": "4–12 lat",
+      "availability": "Na zamówienie",
+      "featured": true,
+      "id": "komplet-urodzinowy-princess",
+      "visible": true,
+      "seoTitle": "Komplet urodzinowy Princess",
+      "seoDescription": "Spódniczka i elegancka góra, które można stylizować także osobno.",
+      "alt": "Komplet urodzinowy Princess — elegancka odzież dziecięca",
+      "badges": [
+        "Bestseller"
+      ],
+      "images": [
+        "/images/sukienka-aurora.png"
+      ],
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-07-03T10:41:13.767Z"
+    },
+    {
+      "slug": "opaska-z-perelkami",
+      "name": "Opaska z perełkami",
+      "category": "Akcesoria",
+      "categorySlug": "akcesoria",
+      "description": "Ręcznie wykańczana opaska o lekkiej, subtelnej formie.",
+      "longDescription": "Delikatny dodatek do sukienki komunijnej lub uroczystej stylizacji. Każda opaska jest wykańczana ręcznie w naszej pracowni.",
+      "image": "/images/sukienka-aurora.png",
+      "price": "89 zł",
+      "sizes": [
+        "Uniwersalny"
+      ],
+      "colors": [
+        "Ivory",
+        "Złoty"
+      ],
+      "material": "satyna, koraliki szklane",
+      "occasion": [
+        "Komunia",
+        "Urodziny"
+      ],
+      "gender": "Dziewczynka",
+      "age": "5–14 lat",
+      "availability": "Dostępny",
+      "id": "opaska-z-perelkami",
+      "visible": true,
+      "seoTitle": "Opaska z perełkami",
+      "seoDescription": "Ręcznie wykańczana opaska o lekkiej, subtelnej formie.",
+      "alt": "Opaska z perełkami — elegancka odzież dziecięca",
+      "badges": [],
+      "images": [
+        "/images/sukienka-aurora.png"
+      ],
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-07-03T10:41:13.767Z"
+    },
+    {
+      "slug": "muszka-chlopieca-royal",
+      "name": "Muszka chłopięca Royal",
+      "category": "Akcesoria",
+      "categorySlug": "akcesoria",
+      "description": "Miękka aksamitna muszka z regulowanym zapięciem.",
+      "longDescription": "Niewielki detal, który podkreśla charakter całej stylizacji. Dostępna w kolorach dopasowanych do garniturów i kamizelek.",
+      "image": "/images/garnitur-milano.png",
+      "price": "69 zł",
+      "sizes": [
+        "Dziecięcy",
+        "Nastolatek"
+      ],
+      "colors": [
+        "Granatowy",
+        "Szampan",
+        "Bordo"
+      ],
+      "material": "aksamit",
+      "occasion": [
+        "Komunia",
+        "Święta",
+        "Wesele"
+      ],
+      "gender": "Chłopiec",
+      "age": "4–15 lat",
+      "availability": "Dostępny",
+      "id": "muszka-chlopieca-royal",
+      "visible": true,
+      "seoTitle": "Muszka chłopięca Royal",
+      "seoDescription": "Miękka aksamitna muszka z regulowanym zapięciem.",
+      "alt": "Muszka chłopięca Royal — elegancka odzież dziecięca",
+      "badges": [],
+      "images": [
+        "/images/garnitur-milano.png"
+      ],
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-07-03T10:41:13.767Z"
+    },
+    {
+      "slug": "plaszcz-swiateczny-snow",
+      "name": "Płaszcz świąteczny Snow",
+      "category": "Okrycia",
+      "categorySlug": "ubrania-swiateczne",
+      "description": "Elegancki płaszczyk z miękkiej wełny na zimowe uroczystości.",
+      "longDescription": "Snow otula, nie obciążając stylizacji. Minimalistyczny fason pasuje zarówno do sukienki, jak i eleganckich spodni.",
+      "image": "/images/hero-boutique.png",
+      "imagePosition": "70% center",
+      "price": "od 449 zł",
+      "sizes": [
+        "110",
+        "116",
+        "122",
+        "128",
+        "134",
+        "140"
+      ],
+      "colors": [
+        "Kremowy",
+        "Karmelowy"
+      ],
+      "material": "wełna z kaszmirem",
+      "occasion": [
+        "Święta",
+        "Zimowe uroczystości"
+      ],
+      "gender": "Unisex",
+      "age": "5–12 lat",
+      "availability": "Wkrótce",
+      "id": "plaszcz-swiateczny-snow",
+      "visible": true,
+      "seoTitle": "Płaszcz świąteczny Snow",
+      "seoDescription": "Elegancki płaszczyk z miękkiej wełny na zimowe uroczystości.",
+      "alt": "Płaszcz świąteczny Snow — elegancka odzież dziecięca",
+      "badges": [],
+      "images": [
+        "/images/hero-boutique.png"
+      ],
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-07-03T10:41:13.767Z"
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "demo-1",
+      "createdAt": "2026-07-03T10:41:13.767Z",
+      "name": "Anna Kowalska",
+      "phone": "+48 600 123 456",
+      "email": "anna@example.com",
+      "product": "Sukienka komunijna Aurora",
+      "size": "140",
+      "age": "10 lat",
+      "event": "Komunia",
+      "message": "Czy możemy umówić przymiarkę w przyszłym tygodniu?",
+      "formType": "product",
+      "status": "Nowe",
+      "source": "Google",
+      "history": []
+    },
+    {
+      "id": "demo-2",
+      "createdAt": "2026-07-02T10:41:13.767Z",
+      "name": "Marta Nowak",
+      "phone": "+48 500 222 111",
+      "email": "marta@example.com",
+      "product": "Garnitur chłopięcy Milano",
+      "size": "146",
+      "age": "12 lat",
+      "event": "Wesele",
+      "message": "Czy garnitur jest dostępny w granacie?",
+      "formType": "product",
+      "status": "W trakcie",
+      "source": "Instagram",
+      "history": [
+        {
+          "date": "2026-07-03T10:41:13.767Z",
+          "text": "Wysłano informację o dostępnych terminach."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "id": "faq-1",
+      "question": "Czy można zamówić ubranie na wymiar?",
+      "answer": "Tak. Dopasowujemy istniejący model albo przygotowujemy indywidualny projekt po konsultacji i pomiarze.",
+      "category": "Zakupy",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "faq-2",
+      "question": "Ile trwa realizacja zamówienia?",
+      "answer": "Standardowo 3–6 tygodni. Przed komuniami i świętami termin może być dłuższy, dlatego warto skontaktować się wcześniej.",
+      "category": "Zakupy",
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "faq-3",
+      "question": "Czy można przymierzyć ubrania w sklepie?",
+      "answer": "Tak, zapraszamy do butiku w Dąbrowie Tarnowskiej. Przymiarkę najlepiej umówić telefonicznie.",
+      "category": "Zakupy",
+      "visible": true,
+      "order": 3
+    },
+    {
+      "id": "faq-4",
+      "question": "Czy wysyłacie zamówienia w Polsce?",
+      "answer": "Tak, wysyłamy gotowe produkty na terenie całej Polski. Przy projektach na wymiar uzgadniamy sposób pomiaru indywidualnie.",
+      "category": "Zakupy",
+      "visible": true,
+      "order": 4
+    },
+    {
+      "id": "faq-5",
+      "question": "Czy oferta będzie rozszerzana?",
+      "answer": "Tak. Regularnie wprowadzamy krótkie serie, nowe dodatki i modele sezonowe.",
+      "category": "Zakupy",
+      "visible": true,
+      "order": 5
+    }
+  ],
+  "posts": [
+    {
+      "slug": "jak-wybrac-sukienke-komunijna",
+      "title": "Jak wybrać sukienkę komunijną dla dziewczynki?",
+      "excerpt": "Fason, materiał i wygoda — trzy rzeczy, które naprawdę mają znaczenie w tym wyjątkowym dniu.",
+      "date": "12 marca 2026",
+      "readTime": "6 min",
+      "image": "/images/sukienka-aurora.png",
+      "category": "Komunia",
+      "content": [
+        {
+          "heading": "Zacznij od wygody",
+          "paragraphs": [
+            "Dziecko spędzi w sukience wiele godzin, dlatego miękka podszewka, swobodny rękaw i odpowiednia długość są ważniejsze niż efektowny detal.",
+            "Podczas przymiarki warto poprosić dziecko, by usiadło, podniosło ręce i przeszło kilka kroków."
+          ]
+        },
+        {
+          "heading": "Dopasuj styl do dziecka",
+          "paragraphs": [
+            "Nie każda dziewczynka dobrze czuje się w rozbudowanej sukni. Prosty fason z piękną fakturą może wyglądać równie odświętnie i bardziej naturalnie.",
+            "W naszym butiku w Dąbrowie Tarnowskiej możemy zmienić rękaw, długość lub kolor szarfy."
+          ]
+        },
+        {
+          "heading": "Zostaw czas na poprawki",
+          "paragraphs": [
+            "Pierwszą przymiarkę najlepiej zaplanować kilka tygodni przed uroczystością. To daje spokojny czas na drobne korekty i dobranie dodatków."
+          ]
+        }
+      ],
+      "id": "post-1",
+      "status": "Opublikowany",
+      "seoTitle": "Jak wybrać sukienkę komunijną dla dziewczynki?",
+      "seoDescription": "Fason, materiał i wygoda — trzy rzeczy, które naprawdę mają znaczenie w tym wyjątkowym dniu."
+    },
+    {
+      "slug": "garnitur-dla-chlopca-kupic-czy-szyc",
+      "title": "Garnitur dla chłopca — kupić czy szyć?",
+      "excerpt": "Kiedy gotowy rozmiar wystarczy, a kiedy indywidualne dopasowanie robi dużą różnicę.",
+      "date": "28 lutego 2026",
+      "readTime": "5 min",
+      "image": "/images/garnitur-milano.png",
+      "category": "Porady",
+      "content": [
+        {
+          "heading": "Kiedy wybrać gotowy model",
+          "paragraphs": [
+            "Jeżeli standardowy rozmiar dobrze leży w ramionach i pasie, zwykle wystarczą niewielkie poprawki długości rękawów i nogawek."
+          ]
+        },
+        {
+          "heading": "Co daje szycie na miarę",
+          "paragraphs": [
+            "Indywidualny projekt sprawdza się przy nietypowych proporcjach, konkretnym pomyśle kolorystycznym albo wtedy, gdy strój ma pozostać wygodny przez cały dzień.",
+            "Wspólnie dobieramy materiał, konstrukcję i dodatki, nie kopiując dorosłych fasonów jeden do jednego."
+          ]
+        }
+      ],
+      "id": "post-2",
+      "status": "Opublikowany",
+      "seoTitle": "Garnitur dla chłopca — kupić czy szyć?",
+      "seoDescription": "Kiedy gotowy rozmiar wystarczy, a kiedy indywidualne dopasowanie robi dużą różnicę."
+    },
+    {
+      "slug": "jak-przygotowac-dziecko-do-przymiarki",
+      "title": "Jak przygotować dziecko do przymiarki?",
+      "excerpt": "Krótka lista, dzięki której spotkanie w butiku będzie spokojne i naprawdę pomocne.",
+      "date": "14 lutego 2026",
+      "readTime": "4 min",
+      "image": "/images/hero-boutique.png",
+      "category": "Przymiarka",
+      "content": [
+        {
+          "heading": "Przed wizytą",
+          "paragraphs": [
+            "Zabierz bieliznę i buty podobne do tych, które dziecko założy na uroczystość. Nie planuj przymiarki tuż po długim dniu w szkole."
+          ]
+        },
+        {
+          "heading": "Pozwól dziecku mieć zdanie",
+          "paragraphs": [
+            "Najlepszy strój to taki, w którym dziecko czuje się sobą. Pytamy nie tylko o kolor, ale też o fakturę, długość i swobodę ruchu."
+          ]
+        }
+      ],
+      "id": "post-3",
+      "status": "Opublikowany",
+      "seoTitle": "Jak przygotować dziecko do przymiarki?",
+      "seoDescription": "Krótka lista, dzięki której spotkanie w butiku będzie spokojne i naprawdę pomocne."
+    },
+    {
+      "slug": "modne-ubrania-swiateczne-dla-dzieci",
+      "title": "Modne ubrania świąteczne dla dzieci",
+      "excerpt": "Ciepłe faktury, spokojne kolory i fasony, które dobrze wyglądają także po świętach.",
+      "date": "5 lutego 2026",
+      "readTime": "5 min",
+      "image": "/images/hero-boutique.png",
+      "category": "Święta",
+      "content": [
+        {
+          "heading": "Mniej znaczy bardziej odświętnie",
+          "paragraphs": [
+            "Aksamit, miękka wełna i jeden dopracowany detal tworzą bardziej szlachetny efekt niż wiele ozdób naraz."
+          ]
+        },
+        {
+          "heading": "Wybieraj rzeczy na dłużej",
+          "paragraphs": [
+            "Koszulę, kamizelkę czy prostą sukienkę można później zestawić swobodniej. Dzięki temu odświętna garderoba nie jest jednorazowa."
+          ]
+        }
+      ],
+      "id": "post-4",
+      "status": "Opublikowany",
+      "seoTitle": "Modne ubrania świąteczne dla dzieci",
+      "seoDescription": "Ciepłe faktury, spokojne kolory i fasony, które dobrze wyglądają także po świętach."
+    }
+  ],
+  "media": [
+    {
+      "id": "media-hero",
+      "url": "/images/hero-boutique.png",
+      "filename": "hero-boutique.png",
+      "alt": "Dzieci w eleganckich stylizacjach",
+      "group": "Strona główna",
+      "createdAt": "2026-07-03T10:41:13.767Z",
+      "size": 0
+    },
+    {
+      "id": "media-aurora",
+      "url": "/images/sukienka-aurora.png",
+      "filename": "sukienka-aurora.png",
+      "alt": "Sukienka komunijna Aurora",
+      "group": "Produkty",
+      "createdAt": "2026-07-03T10:41:13.767Z",
+      "size": 0
+    },
+    {
+      "id": "media-milano",
+      "url": "/images/garnitur-milano.png",
+      "filename": "garnitur-milano.png",
+      "alt": "Garnitur chłopięcy Milano",
+      "group": "Produkty",
+      "createdAt": "2026-07-03T10:41:13.767Z",
+      "size": 0
+    }
+  ],
+  "appointments": [],
+  "events": [
+    {
+      "id": "mr4t8tf7-296b77b0",
+      "createdAt": "2026-07-03T10:48:38.131Z",
+      "type": "page_view",
+      "path": "/polityka-prywatnosci",
+      "source": "Referral"
+    },
+    {
+      "id": "mr4t8ny0-2c205c92",
+      "createdAt": "2026-07-03T10:48:31.032Z",
+      "type": "page_view",
+      "path": "/regulamin",
+      "source": "Referral"
+    },
+    {
+      "id": "mr4t8iqk-5c618192",
+      "createdAt": "2026-07-03T10:48:24.284Z",
+      "type": "page_view",
+      "path": "/polityka-prywatnosci",
+      "source": "Referral"
+    },
+    {
+      "id": "mr4t5icw-78a98415",
+      "createdAt": "2026-07-03T10:46:03.824Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Referral"
+    },
+    {
+      "id": "mr4t5gey-07a540f2",
+      "createdAt": "2026-07-03T10:46:01.306Z",
+      "type": "page_view",
+      "path": "/kolekcje",
+      "source": "Referral"
+    },
+    {
+      "id": "mr4szaiu-e759a084",
+      "createdAt": "2026-07-03T10:41:13.734Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Referral"
+    }
+  ],
+  "reviews": [],
+  "promotions": []
+}

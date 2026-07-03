@@ -1,0 +1,3 @@
+import AdminMarketing from "@/components/admin/AdminMarketing";import { readStore } from "@/lib/admin-store";
+export const dynamic="force-dynamic";export const metadata={title:"Marketing"};
+export default async function Marketing(){const store=await readStore();return <><header><p className="text-xs uppercase tracking-[.15em] text-[#8b6d4d]">Sprzedaż i zaufanie</p><h1 className="serif text-4xl mt-2">Marketing</h1><p className="text-sm text-[#69717b] mt-2">Opinie klientów, promocje sezonowe i kody rabatowe.</p></header><div className="mt-8"><AdminMarketing initialReviews={store.reviews} initialPromotions={store.promotions}/></div></>}

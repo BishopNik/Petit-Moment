@@ -1,0 +1,4 @@
+"use client";
+import { useEffect } from "react";import { usePathname } from "next/navigation";
+function source(){if(typeof document==="undefined")return "Direct";const ref=document.referrer.toLowerCase();if(ref.includes("google"))return "Google";if(ref.includes("facebook"))return "Facebook";if(ref.includes("instagram"))return "Instagram";if(ref.includes("tiktok"))return "TikTok";return ref?"Referral":"Direct"}
+export default function AnalyticsTracker(){const pathname=usePathname();useEffect(()=>{if(pathname.startsWith("/admin"))return;const product=pathname.startsWith("/produkty/")?pathname.split("/").pop():undefined;const category=pathname.startsWith("/kategorie/")?pathname.split("/").pop():undefined;void fetch("/api/analytics",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({type:"page_view",path:pathname,source:source(),product,category}),keepalive:true})},[pathname]);return null}

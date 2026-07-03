@@ -1,0 +1,2 @@
+import { cookies } from "next/headers";import { NextResponse } from "next/server";import { can,sessionCookie,verifySession } from "@/lib/admin-auth";
+export async function requireAdmin(area: Parameters<typeof can>[1]){const session=verifySession((await cookies()).get(sessionCookie)?.value);if(!session)return {error:NextResponse.json({error:"Brak autoryzacji"},{status:401})};if(!can(session.role,area))return {error:NextResponse.json({error:"Brak uprawnień"},{status:403})};return {session}}
