@@ -570,6 +570,90 @@
   "appointments": [],
   "events": [
     {
+      "id": "mr6e02c9-62e44dc6",
+      "createdAt": "2026-07-04T13:17:27.897Z",
+      "type": "page_view",
+      "path": "/poradnik",
+      "source": "Referral"
+    },
+    {
+      "id": "mr66an4o-5b3868f6",
+      "createdAt": "2026-07-04T09:41:44.474Z",
+      "type": "page_view",
+      "path": "/sklep-dabrowa-tarnowska",
+      "source": "Referral"
+    },
+    {
+      "id": "mr61w1bc-b9a79726",
+      "createdAt": "2026-07-04T07:38:24.552Z",
+      "type": "page_view",
+      "path": "/szycie-na-zamowienie",
+      "source": "Referral"
+    },
+    {
+      "id": "mr61vxw3-f1802199",
+      "createdAt": "2026-07-04T07:38:20.115Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Referral"
+    },
+    {
+      "id": "mr61vxnd-7be6e85b",
+      "createdAt": "2026-07-04T07:38:19.802Z",
+      "type": "page_view",
+      "path": "/szycie-na-zamowienie",
+      "source": "Referral"
+    },
+    {
+      "id": "mr61sb74-7aa437a7",
+      "createdAt": "2026-07-04T07:35:30.736Z",
+      "type": "page_view",
+      "path": "/szycie-na-zamowienie",
+      "source": "Referral"
+    },
+    {
+      "id": "mr61s68d-92ff55de",
+      "createdAt": "2026-07-04T07:35:24.301Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Referral"
+    },
+    {
+      "id": "mr61s5mt-a0ca388b",
+      "createdAt": "2026-07-04T07:35:23.525Z",
+      "type": "page_view",
+      "path": "/szycie-na-zamowienie",
+      "source": "Referral"
+    },
+    {
+      "id": "mr61or6s-9f65f078",
+      "createdAt": "2026-07-04T07:32:44.836Z",
+      "type": "page_view",
+      "path": "/szycie-na-zamowienie",
+      "source": "Direct"
+    },
+    {
+      "id": "mr61ocp4-9f26d834",
+      "createdAt": "2026-07-04T07:32:26.056Z",
+      "type": "page_view",
+      "path": "/szycie-na-zamowienie",
+      "source": "Direct"
+    },
+    {
+      "id": "mr5iq9oj-675f7808",
+      "createdAt": "2026-07-03T22:42:02.755Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Direct"
+    },
+    {
+      "id": "mr5ipvcp-0359d9c3",
+      "createdAt": "2026-07-03T22:41:44.186Z",
+      "type": "page_view",
+      "path": "/szycie-na-zamowienie",
+      "source": "Referral"
+    },
+    {
       "id": "mr4vqxpg-345d84fb",
       "createdAt": "2026-07-03T11:58:42.724Z",
       "type": "page_view",
