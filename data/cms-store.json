@@ -570,6 +570,20 @@
   "appointments": [],
   "events": [
     {
+      "id": "mrc3gh14-70f3417d",
+      "createdAt": "2026-07-08T13:08:54.718Z",
+      "type": "page_view",
+      "path": "/poradnik",
+      "source": "Referral"
+    },
+    {
+      "id": "mr92hk0j-d45ea4a7",
+      "createdAt": "2026-07-06T10:18:27.091Z",
+      "type": "page_view",
+      "path": "/poradnik",
+      "source": "Direct"
+    },
+    {
       "id": "mr6e02c9-62e44dc6",
       "createdAt": "2026-07-04T13:17:27.897Z",
       "type": "page_view",
