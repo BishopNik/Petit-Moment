@@ -570,6 +570,41 @@
   "appointments": [],
   "events": [
     {
+      "id": "mrrjw2nb-9b2d096d",
+      "createdAt": "2026-07-19T08:45:29.063Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Referral"
+    },
+    {
+      "id": "mrqwuwlp-72f62baa",
+      "createdAt": "2026-07-18T22:00:43.405Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Referral"
+    },
+    {
+      "id": "mrquyxh3-6cf388b7",
+      "createdAt": "2026-07-18T21:07:51.927Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Referral"
+    },
+    {
+      "id": "mrlsuc79-e6e4a13e",
+      "createdAt": "2026-07-15T08:09:27.621Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Referral"
+    },
+    {
+      "id": "mrlsrf5y-0dae8182",
+      "createdAt": "2026-07-15T08:07:11.495Z",
+      "type": "page_view",
+      "path": "/poradnik",
+      "source": "Referral"
+    },
+    {
       "id": "mrc3gh14-70f3417d",
       "createdAt": "2026-07-08T13:08:54.718Z",
       "type": "page_view",
