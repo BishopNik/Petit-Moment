@@ -570,6 +570,20 @@
   "appointments": [],
   "events": [
     {
+      "id": "mrw5tdgk-f7fe895d",
+      "createdAt": "2026-07-22T14:10:19.364Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Referral"
+    },
+    {
+      "id": "mrukoxwf-59dcc8b1",
+      "createdAt": "2026-07-21T11:31:14.463Z",
+      "type": "page_view",
+      "path": "/",
+      "source": "Referral"
+    },
+    {
       "id": "mrrjw2nb-9b2d096d",
       "createdAt": "2026-07-19T08:45:29.063Z",
       "type": "page_view",
